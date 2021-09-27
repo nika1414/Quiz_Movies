@@ -1,0 +1,145 @@
+.mainImage {
+  width: 400px;
+}
+
+.descr {
+  width: 1000px;
+  margin-left: 450px;
+  margin-top: -540px;
+}
+
+.descr1 {
+  width: 1000px;
+  margin-left: 450px;
+}
+
+.descr2 {
+  width: 1000px;
+  margin-left: 450px;
+}
+
+.eddie {
+  display: inline;
+  width: 155px;
+  height: 150px;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 500px;
+}
+
+.eric {
+  display: inline;
+  width: 155px;
+  height: 150px;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+
+.kurt {
+  display: inline;
+  width: 155px;
+  height: 150px;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+
+.marcus {
+  display: inline;
+  width: 155px;
+  height: 150px;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+
+.names {
+  display: inline;
+  margin: 90px;
+  margin-left: 500px;
+}
+.ed {
+  display: inline;
+  margin-left: 25px;
+}
+
+.er {
+  display: inline;
+  margin-left: 110px;
+}
+.ku {
+  display: inline;
+  margin-left: 110px;
+}
+.ma {
+  display: inline;
+  margin-left: 110px;
+}
+
+.simImg1 {
+  height: 400px;
+}
+
+.simText1 {
+  width: 400px;
+  margin-left: 290px;
+  margin-top: -400px;
+}
+
+.simImg2 {
+  margin-left: 800px;
+  margin-top: -328px;
+  height: 400px;
+}
+
+.simText2 {
+  width: 400px;
+  margin-left: 1085px;
+  margin-top: -400px;
+}
+.Sim2 {
+  margin-top: -70px;
+}
+
+.simImg3 {
+  margin-top: 100px;
+  height: 400px;
+}
+
+.simText3 {
+  width: 400px;
+  margin-left: 290px;
+  margin-top: -400px;
+}
+
+.simImg4 {
+  margin-left: 800px;
+  margin-top: -400px;
+  height: 400px;
+}
+
+.simText4 {
+  width: 400px;
+  margin-left: 1085px;
+  margin-top: -400px;
+}
+
+.Sim4 {
+  margin-top: 20px;
+}
+
+.h1 .h2 {
+  font-family: "Ubuntu", sans-serif;
+}
+p {
+  font-family: "Yaldevi", sans-serif;
+}
+
+.descriptions p {
+  font-weight: bold;
+}
+
+.similars p {
+  font-weight: bold;
+}
